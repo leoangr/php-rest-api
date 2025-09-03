@@ -33,7 +33,7 @@ https://leoanggoro.my.id/project-api/
 
 1. Clone the Repository
 ```
-git clone https://github.com/leoanggoro/php-rest-api.git
+git clone https://github.com/leoangr/php-rest-api.git
 cd php-rest-api
 ```
 2. Import the provided api_data.sql file into your MySQL database.
