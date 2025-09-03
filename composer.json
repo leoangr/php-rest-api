@@ -1,0 +1,8 @@
+{
+    "name": "leoanggoro.my.id/api-public",
+    "type": "project",
+    "require": {
+        "altorouter/altorouter": "^2.0",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
