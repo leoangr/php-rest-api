@@ -40,7 +40,7 @@ cd php-rest-api
 3. Configure Environment (.env)
 ```
 DB_HOST=localhost
-DB_USER=root
-DB_PASS=
-DB_NAME=api_data
+DB_USER=root //or your database username
+DB_PASS=  // or your database password
+DB_NAME=api_data // or your database name
 ```
