@@ -11,11 +11,11 @@ https://leoanggoro.my.id/project-api/
 ```
 | Method | Endpoint    | Description       |
 | ------ | ----------- | ----------------- |
-| GET    | /items      | Get all items     |
-| GET    | /items/{id} | Get item by ID    |
-| POST   | /items      | Create a new item |
-| PUT    | /items/{id} | Update item by ID |
-| DELETE | /items/{id} | Delete item by ID |
+| GET    | /produk      | Get all items     |
+| GET    | /produk/{id} | Get item by ID    |
+| POST   | /add-produk      | Create a new item |
+| PUT    | /update-produk/{id} | Update item by ID |
+| DELETE | /delete-produk/{id} | Delete item by ID |
 ```
 
 ## 📦 Example: Raw JSON (POST /items)
